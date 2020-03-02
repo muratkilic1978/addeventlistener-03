@@ -1,0 +1,43 @@
+body {
+    font-family: "helvetica neue";
+    color: #666;
+   
+}
+
+nav.navbar.navbar-expand-lg.navbar-dark.bg-dark.static-top {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+
+img.rounded.float-left {
+    width: 30rem;
+}
+
+img#like {
+    float: left;
+}
+
+img#dislike {
+    float: right;
+}
+
+.blockquote {
+    margin-bottom: 3rem;
+}
+
+p.card-points-right {
+    float: right;
+    padding: 0px 10px;
+}
+
+p.card-points-left {
+    float: left;
+    padding: 0px 10px;
+}
+
+h1.text-center.display-3 {
+    margin-top: 7rem;
+}
